@@ -17,6 +17,8 @@ dependencies:
   firebase_core: ^1.5.0
   firebase_auth: ^3.0.2
   cupertino_icons: ^1.0.2
+  auto_size_text: ^3.0.0
+  flutter_screenutil: ^5.5.2
     #? end packages
 
 dev_dependencies:
